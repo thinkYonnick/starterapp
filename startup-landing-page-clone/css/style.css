@@ -1,0 +1,23 @@
+
+
+body {
+  background: 1px lightgrey;
+}
+
+div {
+  border:1px solid red;
+}
+
+.logo {
+  margin: 10px 0 0 10px;
+}
+
+.top-navigation {
+  background-color: white;
+}
+
+.top-navigation > .content{
+  width: 970px;
+  height: 70px;
+  margin: 0 auto;
+}
